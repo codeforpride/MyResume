@@ -3,7 +3,8 @@ Personal CV/RESUME/PORTFOLIO site template. This template allows anyone to creat
 
 ![resume](https://user-images.githubusercontent.com/30004820/28014454-4cb14e4e-658a-11e7-9ed0-cde5180fbcc9.png)
 
-
+### Full Live Demo 
+[MyResume](https://anirbanroot.000webhostapp.com/resume/)
 ### Requirements or Tools
 - Html , Css
 - PHP 5.3 or higher recommended 
@@ -20,8 +21,8 @@ Personal CV/RESUME/PORTFOLIO site template. This template allows anyone to creat
 - Add social link buttons
 
 ### Developers team:
-- Front-end : [Austin](url)
-- Back-end : [Anirban Dutta](url)
+- Front-end : [Austin Enas](https://www.facebook.com/emperor.austi)
+- Back-end : [Anirban Dutta](https://github.com/anirbandutta9)
 
 ### Issues
 
