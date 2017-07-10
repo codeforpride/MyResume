@@ -1,5 +1,5 @@
 # MyResume
-Personal CV/RESUME/PORTFOLIO site template. This template allows anyone to create own responsive resume site in a minute. The template is very simple, user-friendly & resposive.
+Personal CV/RESUME/PORTFOLIO site template. This template allows anyone to create own responsive resume site in a minute. The template is very simple, user-friendly & responsive.
 
 ![resume](https://user-images.githubusercontent.com/30004820/28014454-4cb14e4e-658a-11e7-9ed0-cde5180fbcc9.png)
 
