@@ -1,0 +1,82 @@
+body
+{
+	background-color: black;
+	background-image: url("images/background3.jpg");
+}
+.sec1
+{
+	width: 100%;
+	height: auto;
+}
+.cdiv1
+{
+	overflow: hidden;
+	background-color: gray;
+	height: 4em;
+}
+.cdiv1 a
+{
+    float: left;
+    margin-left: 12em;
+    display: inline-block;
+    color: green;
+    text-align: center;
+    padding: 25px 16px;
+    text-decoration: none;
+    font-size: 1em;
+    font-weight: bold;
+}
+.cdiv1 a:hover
+{
+	background-color: darkblue;
+	color: black;
+	font-weight: bold;
+	font-size: 1em;
+}
+.cdiv1 a.active
+{
+    background-color: #4CAF50;
+    color: black;
+}
+.cdiv2
+{
+	overflow: hidden;
+	background-color: ;
+	height: auto;
+	width: 30em;
+	float: left;
+}
+.cdiv2 img
+{
+	width: 20em;
+	height: 20em;
+	margin-left: 10em;
+	margin-top: 4em;
+}
+.cdiv3
+{
+	overflow:auto ;
+	overflow-wrap: break-word;
+	height: 10em;
+	width: 30em;
+	float: right;
+	margin-top: 4em;
+	color: green;
+	font-size: 1.5em;
+	text-align: center;
+	background-image: url("images/background3.jpg");
+	margin-left: -20em;
+}
+.cdiv4
+{
+	
+	height: auto;
+	width: 100%;
+	float: right;
+	margin-top: 4em;
+	color: green;
+	font-size: 1.5em;
+	text-align: center;
+	background-image: url("images/background1.jpg");
+	margin-left: -20em;
+}
